@@ -1,4 +1,4 @@
-# leaflet-challenge
+# Earthquake Visualization
 
 The United States Geological Survey (USGS) provides scientific data about natural disasters, the health of our ecosystems, and the impact of climate change on our environment. The USGS is interested in building a new set of tools that will allow them to visualize their earthquake data. The goal of this project is to create a visualization displaying the earthquake data in a meaningful way.
 
@@ -16,7 +16,7 @@ A map was created using Leaflet that plots all of the earthquakes from the data 
 - When a marker is clicked on the visualization, a popup will provide additional information about the earthquake
 - There is a legend that provides context for the map data
 
-![Leaflet Map](Images/map.png)
+![Leaflet Map](Images/map.PNG)
 
 
 ## Tools:
